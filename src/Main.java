@@ -10,9 +10,7 @@ public class Main {
         int n = scanner.nextInt();
         for(int i = 0; i < n; i++) {
             // Input foreach famili
-
-
-            System.out.println("Enter address:");
+            System.out.println("Entegit r address:");
             scanner.nextLine();
             String address = scanner.nextLine();
 
